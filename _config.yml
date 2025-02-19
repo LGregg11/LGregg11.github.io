@@ -21,10 +21,8 @@ author: Luke Gregory
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - RacingAid: "https://LGregg11.github.io/2025-02-19-RacingAid-introduction"
 
 ################
 # --- Logo --- #
