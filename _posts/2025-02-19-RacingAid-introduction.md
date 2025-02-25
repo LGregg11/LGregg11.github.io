@@ -4,7 +4,7 @@ title: RacingAid
 subtitle: The free overlay app for sim racers!
 gh-repo: LGregg11/RacingAid
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [RacingAid, Racing, SimRacing, Overlays]
 ---
 
 {: .box-note}
