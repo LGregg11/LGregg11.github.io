@@ -23,6 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Racing Aid: "https://LGregg11.github.io/2025-02-19-RacingAid-introduction"
+    - NBody Stellar Sim: "2025-02-25-N-Body-Stellar-Simulations"
+    - Star Formation Sim: "https://LGregg11.github.io/2025-02-25-Dust-In-Star-Formation"
 
 ################
 # --- Logo --- #
