@@ -28,8 +28,8 @@ statistical analysis methods such as: From [Runge-Kutta methods](https://en.wiki
 and [Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) to
 [Chi-squared distributions](https://en.wikipedia.org/wiki/Chi-squared_distribution) and data smoothing.  
 These courses came in handy for my 3rd year and 4th year dissertations titled
-**_(How fast do molecular clouds grow?)[https://lgregg11.github.io/2025-02-25-N-Body-Stellar-Simulations/]_** and 
-**_(The role of dust in star formation)[https://lgregg11.github.io/2025-02-25-Dust-In-Star-Formation/]_**
+**_[How fast do molecular clouds grow?](https://lgregg11.github.io/2025-02-25-N-Body-Stellar-Simulations/)_** and 
+**_[The role of dust in star formation](https://lgregg11.github.io/2025-02-25-Dust-In-Star-Formation/)_**
 
 *By the way, huge shoutout to my supervisor for my 3rd year, 4th year **and** summer internship, **Paul C. Clark**.*
 
