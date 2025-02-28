@@ -33,10 +33,55 @@ These courses came in handy for my 3rd year and 4th year dissertations titled
 
 *By the way, huge shoutout to my supervisor for my 3rd year, 4th year **and** summer internship, **Paul C. Clark**.*
 
-## Professional Career
+## Career
 
-{: .box-note}
-TBC
+### Software Engineer - BAE Systems Naval Ships (09/19 - 10/23)
 
-* BAE Systems - Naval Ships
-* Masters of Pie
+Throughout my career in BAE Systems I worked on tools and applications used in the management 
+systems on all types of naval vessels that BAE Systems developed. This role required an SC clearance and therefore a 
+solid understanding on the importance of security. I learned different languages like **C#**, **Python** and **C++**, 
+developed apps in platforms and frameworks like **.NET**, **WPF**, **Django**, and how to create and monitor **CI/CD**
+pipelines. Furthermore, I learned how to use the **AGILE** development workflow, how to **mentor** juniors, and 
+**plan and design** applications through their entire lifecycle.
+
+#### Junior Systems/Software Engineer
+
+I started my career in BAE Systems Naval Ships as a Junior Systems Engineer, but quickly transitioned into a Junior 
+Software Engineer. During my first 6 months I was more involved in the hardware specific projects - 'technical 
+refreshes' as we called them - to bring some systems up to date with the latest tech. From this I learned skills in 
+securing Windows systems via **GPOs**, **AppLocker**, **Scripts**, and also modifying boot drives to run and install 
+applications automatically.  
+I became a **STEM Ambassador** and **volunteered** in local schools with their after-school engineering programmes, as well 
+as volunteering in careers fairs for the company to advertise our graduate schemes.
+
+#### Junior -> Mid
+
+The pandemic hit 6 months into my career, and the hardware project I was on was put on pause. This allowed me to 
+transition more into more software heavy projects which was my introduction into **C#** and frameworks like **.NET**,
+**WinForms** and **WPF**.  
+During this time I had the opportunity to switch between multiple projects, working in teams of 3 up to teams of 15, 
+learning from a variety of different developers.  
+At the end of my first year, I was placed on a longer term project developed in **Python** using **Django** and 
+other technologies like **GeoServer** to store, control and visualise geospatial data. This was my introduction to web 
+development and django - granted it was an internal pointing web app (so not a lot of user management!) - but it was yet
+another set of skills and knowledge that I was able to obtain relatively quickly. As a result I was promoted to 
+a **Software Engineer** at my yearly review
+
+#### Intro to lead development
+
+I quickly became the **lead** developer on the geospatial application. I learned a vast amount during this time such as: setting up and monitoring
+**CI/CD** in **Jenkins**, communicating effectively with customers and QA to ensure they were satisfied with security 
+targets and requirements, and also learning to mentor developers on their placement years and starting their graduate
+schemes.  
+One the application was completed and delivered, I progressed onto a **C++** networking application to design and develop 
+new protocols to fit into a legacy system. While this posed new challenges, it was quite an interesting time in my career
+that allowed me to learn yet another language, but also learning more about **networking**, **optimisation** and 
+**design**.  
+As part of this role I saw myself mentoring a graduate through their 3rd year of their 4 year scheme, helping where 
+needed to ensure they were getting along with their course and collecting all the required information for their 
+end of year presentation and project, and also helping with another placement student to understand the fundamentals of 
+WPF.
+
+### Software Engineer - Masters of Pie (10/23 - 01/25)
+
+My most recent role
