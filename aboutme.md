@@ -73,7 +73,9 @@ I quickly became the **lead** developer on the geospatial application. I learned
 **CI/CD** in **Jenkins**, communicating effectively with customers and QA to ensure they were satisfied with security 
 targets and requirements, and also learning to mentor developers on their placement years and starting their graduate
 schemes.  
-One the application was completed and delivered, I progressed onto a **C++** networking application to design and develop 
+
+#### C++, networking & mentoring
+Once the geospatial application was completed and delivered, I progressed onto a **C++** networking application to design and develop 
 new protocols to fit into a legacy system. While this posed new challenges, it was quite an interesting time in my career
 that allowed me to learn yet another language, but also learning more about **networking**, **optimisation** and 
 **design**.  
@@ -84,4 +86,11 @@ WPF.
 
 ### Software Engineer - Masters of Pie (10/23 - 01/25)
 
-My most recent role
+#### Unity & software fundamentals
+
+My most recent role at Masters of Pie had me learn the intricacies of game development via **Unity** and how to create 
+collaboration libraries with **multi-platform** support, including (and primarily focusing) on **AR/VR** device support.  
+I quickly got up to speed learning the framework and found myself leading the discovery and implementation of multiple 
+features. Through the assistance of my talented and competent peers, I was able to hone in on my software engineering
+**fundamentals** and learn how to write competent, extendable and testable code. We focused heavily on an **AGILE** 
+workflow, and I had the opportunity to take part in many a **design** and **planning** meeting.
