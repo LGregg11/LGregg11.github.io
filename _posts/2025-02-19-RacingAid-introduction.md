@@ -8,6 +8,9 @@ tags: [RacingAid, Racing, SimRacing, Overlays]
 ---
 
 {: .box-note}
+This page is a work in progress
+
+{: .box-note}
 RacingAid is still a work in progress, so it is likely that these pages will change as the product develops further.
 
 This page is an introduction to why I began the RacingAid project, what it is, and how to use it as a sim racer and
